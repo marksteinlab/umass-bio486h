@@ -7,7 +7,6 @@ layout: default
 
 ## GENE NAMES ON THE FLY
 
-Some text here
 
 ### Stardust
 
