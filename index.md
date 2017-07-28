@@ -22,7 +22,7 @@ Bachmann, A., Timmer, M., Sierralta, J., Pietrini, G., Gundelfinger, E., Knust, 
 Tepass, U., & Knust, E. (1993). Crumbs and stardust act in a genetic pathway that controls the organization of epithelia in drosophila-melanogaster. Developmental Biology, 159(1), 311-326.
 
 ### Hamlet:
-        	The hamlet (ham) gene encodes a transcription factor. Flies with a mutation in ham change the fate of IIB descendant cells. IIB descendants usually differentiate into a multiple-dendrite neuron, external sensory neuron, and glia. Ham mutant flies have cells that differentiate into two multiple-dendrite neurons and a trichogen. Given ham’s regulation of IIB cell fate, the gene is named for Hamlet’s famous “to be or not to be” soliloquy.
+The hamlet (ham) gene encodes a transcription factor. Flies with a mutation in ham change the fate of IIB descendant cells. IIB descendants usually differentiate into a multiple-dendrite neuron, external sensory neuron, and glia. Ham mutant flies have cells that differentiate into two multiple-dendrite neurons and a trichogen. Given ham’s regulation of IIB cell fate, the gene is named for Hamlet’s famous “to be or not to be” soliloquy.
  
 Report by Emma Weir
 
@@ -43,7 +43,7 @@ Finley, K et al. (1997) Dissatisfaction, a gene involved in sex-specific behavio
 
 
 ### Breathless:
-	The breathless gene (btl) encodes a fibroblast growth factor-activated receptor located on the third chromosome. Flies with mutations in this gene will exhibit defects in the two embryonic tissues in which the receptor is expressed: the tracheal system and the midline. Breathless is required at the initiation of tracheal cell migration and mutants will struggle to breathe! 
+The breathless gene (btl) encodes a fibroblast growth factor-activated receptor located on the third chromosome. Flies with mutations in this gene will exhibit defects in the two embryonic tissues in which the receptor is expressed: the tracheal system and the midline. Breathless is required at the initiation of tracheal cell migration and mutants will struggle to breathe! 
 
 Report by: Rachel Levine
 
@@ -70,7 +70,7 @@ Paper Cited for bag of marbles:
 McKearin, D. M., & Spradling, A. C. (1990). Bag-of-marbles: A drosophila gene required to initiate both male and female gametogenesis. Genes & Development, 4(12b), 2242-2251. doi:10.1101/gad.4.12b.2242
 
 ### Escargot
-	This gene encodes a transcription factor that regulates stem cell maintenance, tracheal morphogenesis and neuroblast differentiation. It is part of the Snail protein family that controls embryonic central nervous system. Mutations in escargot cause defects in abdominal cuticles, wings, and legs causing abdominal sections to shorten and can resemble a snail’s body. Therefore, it was given the name escargot. In human disease models, the gene exacerbates Alzheimer’s disease.
+This gene encodes a transcription factor that regulates stem cell maintenance, tracheal morphogenesis and neuroblast differentiation. It is part of the Snail protein family that controls embryonic central nervous system. Mutations in escargot cause defects in abdominal cuticles, wings, and legs causing abdominal sections to shorten and can resemble a snail’s body. Therefore, it was given the name escargot. In human disease models, the gene exacerbates Alzheimer’s disease.
 
 Report by: Justinne Guarin
 
@@ -78,7 +78,7 @@ Papers cited for Escargot:
 Miao, Guangxia, and Shigeo Hayashi. “Escargot Controls the Sequential Specification of Two Tracheal Tip Cell Types by Suppressing FGF Signaling in Drosophila.” Development (Cambridge, England) 143.22 (2016): 4261–4271. PubMed. Web.
 
 ### Faint Sausage
-	Faint sausage encodes a protein of immunoglobin subtype. Its molecular function is currently unknown and awaits further research. Mutations in the gene is associated with defects in tissue organization and cell movement in the epidermis and central nervous system to give rise to embryos that are arrested in early development to look like sausages.
+Faint sausage encodes a protein of immunoglobin subtype. Its molecular function is currently unknown and awaits further research. Mutations in the gene is associated with defects in tissue organization and cell movement in the epidermis and central nervous system to give rise to embryos that are arrested in early development to look like sausages.
 
 Report by: Justinne Guarin
 
@@ -100,7 +100,7 @@ Kretzschmar, D. et al. “The Swiss Cheese Mutant Causes Glial Hyperwrapping and
 
 
 ### Bagpipe (bap)
-	Bagpipe is a homeobox gene that codes for a transcription factor that is implicated in mesoderm cell differentiation. In bap mutated flies, most mesoderm cells fail to differentiate normally, which results in an absence of visceral endoderm and midgut musculature.1 
+Bagpipe is a homeobox gene that codes for a transcription factor that is implicated in mesoderm cell differentiation. In bap mutated flies, most mesoderm cells fail to differentiate normally, which results in an absence of visceral endoderm and midgut musculature.1 
 
 Report By: Marissa Knoll
 
