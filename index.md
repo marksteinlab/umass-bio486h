@@ -22,10 +22,22 @@ Bachmann, A., Timmer, M., Sierralta, J., Pietrini, G., Gundelfinger, E., Knust, 
 Tepass, U., & Knust, E. (1993). Crumbs and stardust act in a genetic pathway that controls the organization of epithelia in drosophila-melanogaster. Developmental Biology, 159(1), 311-326.
 
 
-### Gene 2
+### Hamlet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis purus velit, sodales sollicitudin quam viverra sit amet. Vestibulum in tempor risus. Integer tincidunt bibendum ante euismod rhoncus. Donec vehicula tellus sed nulla blandit porta sed in nunc. Morbi turpis quam, rhoncus non purus ac, mollis sodales dui. Phasellus sed massa consectetur, feugiat enim eu, faucibus magna. Curabitur pretium, sem nec lobortis ultrices, orci neque tristique odio, eu cursus metus lorem varius arcu. Sed in ullamcorper sapien. Cras vel mauris ipsum. Vivamus sit amet enim in quam accumsan dictum.
+The hamlet (ham) gene encodes a transcription factor. Flies with a mutation in ham change the fate of IIB descendant cells. IIB descendants usually differentiate into a multiple-dendrite neuron, external sensory neuron, and glia. Ham mutant flies have cells that differentiate into two multiple-dendrite neurons and a trichogen. Given ham’s regulation of IIB cell fate, the gene is named for Hamlet’s famous “to be or not to be” soliloquy.
+ 
+Report by Emma Weir
 
-### Gene 3
+Papers cited for hamlet:
+Moore, A., Jan, L., & Jan, Y. (2002). Hamlet, a binary genetic switch between single- and multiple-dendrite neuron morphology. Science, 297(5585), 1355-1358.
+Moore, A., Roegiers, F., Jan, L., & Jan, Y. (2004). Conversion of neurons and glia to external-cell fates in the external sensory organs of drosophila hamlet mutants by a cousin-cousin cell-type respecification. Genes & Development, 18(6), 623-628.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis purus velit, sodales sollicitudin quam viverra sit amet. Vestibulum in tempor risus. Integer tincidunt bibendum ante euismod rhoncus. Donec vehicula tellus sed nulla blandit porta sed in nunc. Morbi turpis quam, rhoncus non purus ac, mollis sodales dui. Phasellus sed massa consectetur, feugiat enim eu, faucibus magna. Curabitur pretium, sem nec lobortis ultrices, orci neque tristique odio, eu cursus metus lorem varius arcu. Sed in ullamcorper sapien. Cras vel mauris ipsum. Vivamus sit amet enim in quam accumsan dictum.
+### Dissatisfaction
+
+The dissatisfaction gene (dsf) encodes for transcriptional repressor activity and is located on the second chromosome. This gene is involved in sex-specific courtship behaviors. A mutation in this gene results in abnormalities in courtship behaviors - such as females resisting males during courtship and copulation resulting in a failure to lay fertilized eggs, and males actively courting and attempting copulation with both males and females. The end result is some serious dissatisfaction among male and female fruit flies! 
+
+Report by: Rachel Levine
+
+Paper cited for dissatisfaction:
+Finley, K et al. (1997) Dissatisfaction, a gene involved in sex-specific behavior and neural development of Drosophila melanogaster. PNAS. 94: 913-918.
+
